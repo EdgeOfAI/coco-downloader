@@ -45,7 +45,7 @@ main_folder
 ###   Download Custom Dataset
 
 
-Choose class names from [Available classes](https://github.com/EdgeOfAI/coco-downloader/blob/main/classes.txt) and provide choosen class names to the required argument
+Choose class names from [Available classes](https://github.com/EdgeOfAI/coco-downloader/blob/main/classes.txt) and provide them to the required argument
 
 Required argument:
   - classes
